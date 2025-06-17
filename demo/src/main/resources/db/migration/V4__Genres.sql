@@ -1,0 +1,10 @@
+INSERT INTO genres (name) VALUES ('Historical');
+INSERT INTO genres (name) VALUES ('Political');
+INSERT INTO genres (name) VALUES ('Gothic');
+INSERT INTO genres (name) VALUES ('Tragedy');
+INSERT INTO genres (name) VALUES ('Philosophy');
+INSERT INTO genres (name) VALUES ('Mythology');
+INSERT INTO genres (name) VALUES ('Fantasy');
+INSERT INTO genres (name) VALUES ('Adventure');
+INSERT INTO genres (name) VALUES ('Dystopian');
+INSERT INTO genres (name) VALUES ('Epic');
