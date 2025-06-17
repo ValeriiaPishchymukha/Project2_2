@@ -6,6 +6,7 @@
 @param List<Author> authors
 @param List<Book> books
 @param List<Genre> genres
+@param Boolean isAuthenticated
 
 <!DOCTYPE html>
 <html>
